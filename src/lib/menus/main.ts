@@ -4,6 +4,10 @@ export const MainMenu = [
     href: "/",
   },
   {
+    name: "Pets",
+    href: "/pets",
+  },
+  {
     name: "About",
     href: "/about",
   },

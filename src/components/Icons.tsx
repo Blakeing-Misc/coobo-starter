@@ -40,5 +40,4 @@ export const Icons = {
       />
     </svg>
   ),
-  // logo: Logo,
 };
